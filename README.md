@@ -189,6 +189,7 @@ im11z@kali:~$ contact
 
   GitHub    : https://github.com/im11z
   Instagram : https://instagram.com/xhetan_raja
+  Linkedin  : https://www.linkedin.com/in/chetanraja
 
 <hr style="border:1px solid #30363d">
 
