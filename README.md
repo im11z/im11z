@@ -3,9 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=im11z&label=visitors&color=0e75b6&style=flat" />
 </p>
 
-# ~ $ whoami
-**Chetan Raja (11z)**  
-SOC Analyst · Malware Analysis · Incident Response
+<!-- MAIN TERMINAL BANNER -->
+<img width="100%" src="https://github.com/im11z/im11z/blob/main/images/main.png?raw=true">
 
 ---
 
@@ -35,7 +34,7 @@ SOC Analyst · Malware Analysis · Incident Response
 
 ## 🔵 SIEM & Log Management
 ![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
-![Elastic](https://img.shields.io/badge/ELK_Stack-black?style=for-the-badge&logo=elastic)
+![ELK](https://img.shields.io/badge/ELK_Stack-black?style=for-the-badge&logo=elastic)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-black?style=for-the-badge&logo=microsoft)
 ![Wazuh](https://img.shields.io/badge/Wazuh-black?style=for-the-badge&logo=wazuh)
 
