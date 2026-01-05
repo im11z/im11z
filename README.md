@@ -17,7 +17,7 @@ SOC Analyst | Malware Analysis | Incident Response
 <hr style="border:1px solid #30363d">
 
 <pre>
-Languages
+im11z@kali:~$ languages
 </pre>
 
 Human:
@@ -37,7 +37,7 @@ Scripting:
 <hr style="border:1px solid #30363d">
 
 <pre>
-OS
+im11z@kali:~$ os
 </pre>
 
   - Windows (all major versions)
@@ -48,7 +48,7 @@ OS
 <hr style="border:1px solid #30363d">
 
 <pre>
-SIEM
+im11z@kali:~$ siem
 </pre>
 
   - Splunk
@@ -59,7 +59,7 @@ SIEM
 <hr style="border:1px solid #30363d">
 
 <pre>
-EDR
+im11z@kali:~$ edr
 </pre>
 
   - Microsoft Defender for Endpoint
@@ -68,7 +68,7 @@ EDR
 <hr style="border:1px solid #30363d">
 
 <pre>
-Incident_response
+im11z@kali:~$ incident_response
 </pre>
 
   - Sysinternals Suite
@@ -78,7 +78,7 @@ Incident_response
 <hr style="border:1px solid #30363d">
 
 <pre>
-Malware_analysis
+im11z@kali:~$ malware_analysis
 </pre>
 
   - IDA
@@ -88,7 +88,7 @@ Malware_analysis
 <hr style="border:1px solid #30363d">
 
 <pre>
-Network analysis
+im11z@kali:~$ network
 </pre>
 
   - Wireshark
@@ -100,7 +100,7 @@ Network analysis
 <hr style="border:1px solid #30363d">
 
 <pre>
-Vulnerability assesment
+im11z@kali:~$ vulnerability
 </pre>
 
   - Nessus
@@ -111,7 +111,7 @@ Vulnerability assesment
 <hr style="border:1px solid #30363d">
 
 <pre>
-Web application Security testing 
+im11z@kali:~$ web
 </pre>
 
   - Burp Suite
@@ -120,17 +120,16 @@ Web application Security testing
 <hr style="border:1px solid #30363d">
 
 <pre>
-Credentials 
+im11z@kali:~$ credentials
 </pre>
 
   - John the Ripper
   - Hashcat
-  - OSINT tools 
 
 <hr style="border:1px solid #30363d">
 
 <pre>
-Threat_intel
+im11z@kali:~$ threat_intel
 </pre>
 
   - VirusTotal
@@ -143,7 +142,7 @@ Threat_intel
 <hr style="border:1px solid #30363d">
 
 <pre>
-Email_analysis
+im11z@kali:~$ email_analysis
 </pre>
 
   - Google Admin Toolbox (Header Analyzer)
@@ -153,7 +152,7 @@ Email_analysis
 <hr style="border:1px solid #30363d">
 
 <pre>
-Firewalls
+im11z@kali:~$ firewalls
 </pre>
 
   - Palo Alto Firewall
@@ -163,7 +162,7 @@ Firewalls
 <hr style="border:1px solid #30363d">
 
 <pre>
-Frameworks
+im11z@kali:~$ frameworks
 </pre>
 
   - MITRE ATT&CK
@@ -176,7 +175,7 @@ Frameworks
 <hr style="border:1px solid #30363d">
 
 <pre>
-Reading
+im11z@kali:~$ reading
 </pre>
 
   Practical Malware Analysis
