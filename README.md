@@ -1,196 +1,145 @@
-<div style="
-background-color:#8B0000;
-color:#000000;
-font-family: 'JetBrains Mono', 'Fira Code', monospace;
-padding: 30px;
-border-radius: 6px;
-">
+<!-- PROFILE VIEWS -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=im11z&label=visitors&color=0e75b6&style=flat" />
+</p>
 
-<pre>
-im11z@kali:~$ whoami
-chetanraja
+<!-- TERMINAL BANNER -->
+<img width="100%" src="https://github.com/im11z/im11z/blob/main/images/main.png?raw=true">
 
-SOC Analyst | Malware Analysis | Incident Response
-</pre>
+---
 
-<hr style="border:1px solid #000000">
+## 👤 Identity
+**Chetan Raja**  
+Alias: **11z**  
+Focus: **SOC Analyst · Malware Analysis · Incident Response**
 
-<pre>
-im11z@kali:~$ languages
-</pre>
+---
 
-<b>Human Languages</b>
-- English
-- Hindi
-- Telugu
+## 🗣️ Languages
 
-<b>Programming & Scripting</b>
-- C
-- C++
-- Python
-- Bash (Debian-based Linux)
-- Windows Command Line / PowerShell
+### Human
+- English  
+- Hindi  
+- Telugu  
 
-<hr style="border:1px solid #000000">
+### Programming & Scripting
+- C  
+- C++  
+- Python  
+- Bash (Linux / Debian-based systems)  
+- Windows Command Line / PowerShell  
 
-<pre>
-im11z@kali:~$ os
-</pre>
+---
 
+## 🖥️ Operating Systems
 - Windows (all major versions)
 - Kali Linux
 - Kali Purple
 - Ubuntu
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ siem
-</pre>
+## 🔵 SIEM & Log Management
+- Splunk  
+- ELK Stack (Elasticsearch, Logstash, Kibana)  
+- Microsoft Sentinel  
+- Wazuh  
 
-- Splunk
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Microsoft Sentinel
-- Wazuh
+---
 
-<hr style="border:1px solid #000000">
+## 🟦 Endpoint Detection & Response (EDR)
+- Microsoft Defender for Endpoint  
+- CrowdStrike Falcon  
 
-<pre>
-im11z@kali:~$ edr
-</pre>
+---
 
-- Microsoft Defender for Endpoint
-- CrowdStrike Falcon
+## 🟩 Incident Response & DFIR
+- Sysinternals Suite  
+- Volatility (Memory Forensics)  
+- Autopsy (Disk Forensics)
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ incident_response
-</pre>
-
-- Sysinternals Suite
-- Volatility (memory forensics)
-- Autopsy (disk forensics)
-
-<hr style="border:1px solid #000000">
-
-<pre>
-im11z@kali:~$ malware_analysis
-</pre>
-
-- IDA
-- PEStudio
+## 🧪 Malware Analysis & Reverse Engineering
+- IDA  
+- PEStudio  
 - Detect It Easy (DIE)
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ network
-</pre>
+## 🌐 Network Security & Traffic Analysis
+- Wireshark  
+- tcpdump  
+- Snort  
+- Nmap  
+- Netcat  
 
-- Wireshark
-- tcpdump
-- Snort
-- Nmap
-- Netcat
+---
 
-<hr style="border:1px solid #000000">
+## 🟥 Vulnerability & Configuration Analysis
+- Nessus (Tenable)  
+- OpenVAS  
+- Nipper  
+- Nikto  
 
-<pre>
-im11z@kali:~$ vulnerability
-</pre>
+---
 
-- Nessus (Tenable)
-- OpenVAS
-- Nipper
-- Nikto
+## 🟧 Web & Application Security
+- Burp Suite (PortSwigger)  
+- OWASP ZAP  
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ web
-</pre>
+## 🔐 Credential & Password Analysis
+- John the Ripper  
+- Hashcat  
 
-- Burp Suite
-- OWASP ZAP
+---
 
-<hr style="border:1px solid #000000">
+## 🟨 Threat Intelligence & IOC Analysis
+- VirusTotal  
+- URLScan.io  
+- AbuseIPDB  
+- Shodan  
+- AlienVault OTX  
+- GreyNoise  
 
-<pre>
-im11z@kali:~$ credentials
-</pre>
+---
 
-- John the Ripper
-- Hashcat
+## 🧭 Email & Phishing Analysis
+- Google Admin Toolbox (Header Analyzer)  
+- PhishTool  
+- MailHog  
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ threat_intel
-</pre>
+## 🧱 Firewalls, Proxies & Enterprise Security
+- Palo Alto Firewall  
+- Cisco ASA  
+- Zscaler  
 
-- VirusTotal
-- URLScan.io
-- AbuseIPDB
-- Shodan
-- AlienVault OTX
-- GreyNoise
+---
 
-<hr style="border:1px solid #000000">
+## 🧠 Frameworks & Methodologies
+- MITRE ATT&CK  
+- Cyber Kill Chain  
+- Incident Response Lifecycle  
+- NIST Security Framework  
+- CIS Critical Security Controls  
+- OWASP Top 10  
 
-<pre>
-im11z@kali:~$ email_analysis
-</pre>
+---
 
-- Google Admin Toolbox (Header Analyzer)
-- PhishTool
-- MailHog
-
-<hr style="border:1px solid #000000">
-
-<pre>
-im11z@kali:~$ firewalls
-</pre>
-
-- Palo Alto Firewall
-- Cisco ASA
-- Zscaler
-
-<hr style="border:1px solid #000000">
-
-<pre>
-im11z@kali:~$ frameworks
-</pre>
-
-- MITRE ATT&CK
-- Cyber Kill Chain
-- Incident Response Lifecycle
-- NIST Security Framework
-- CIS Critical Security Controls
-- OWASP Top 10
-
-<hr style="border:1px solid #000000">
-
-<pre>
-im11z@kali:~$ reading
-</pre>
-
-Practical Malware Analysis  
+## 📚 Recommended Reading
+**Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**  
 Andrew Honig & Michael Sikorski
 
-<hr style="border:1px solid #000000">
+---
 
-<pre>
-im11z@kali:~$ connect
-</pre>
+## 🌐 Connect
+- GitHub: https://github.com/im11z  
+- Instagram: https://instagram.com/xhetan_raja  
 
-GitHub     : https://github.com/im11z  
-Instagram  : https://instagram.com/xhetan_raja  
+---
 
-<hr style="border:1px solid #000000">
-
-<pre>
-im11z@kali:~$ _
-</pre>
-
-</div>
+> _Defensive security. Clear signals. No noise._
