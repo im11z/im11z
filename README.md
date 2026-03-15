@@ -11,7 +11,7 @@ line-height:1.5;
 im11z@kali:~$ whoami
 chetanraja
 
-SOC Analyst | Malware Analysis | Incident Response
+SOC Analyst | Malware Analyst | Incident Response
 </pre>
 
 <hr style="border:1px solid #30363d">
